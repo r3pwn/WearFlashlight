@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WearFlashlight2</string>
+    <string name="welcome_message">Check-out the wearable app on your watch!</string>
+    <string name="notify_message">Open the wearable app from the Start section of your watch!</string>
+
+</resources>
